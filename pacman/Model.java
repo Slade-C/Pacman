@@ -69,12 +69,12 @@ public class Model extends JPanel implements ActionListener {
     
     
     private void loadImages() {
-    	down = new ImageIcon("/src/images/down.gif").getImage();
-    	up = new ImageIcon("/src/images/up.gif").getImage();
-    	left = new ImageIcon("/src/images/left.gif").getImage();
-    	right = new ImageIcon("/src/images/right.gif").getImage();
-        ghost = new ImageIcon("/src/images/ghost.gif").getImage();
-        heart = new ImageIcon("/src/images/heart.png").getImage();
+    	down = new ImageIcon("/Users/scat3402/Documents/Dev/Java/Pacman/images/down.gif").getImage();
+    	up = new ImageIcon("/Users/scat3402/Documents/Dev/Java/Pacman/images/up.gif").getImage();
+    	left = new ImageIcon("/Users/scat3402/Documents/Dev/Java/Pacman/images/left.gif").getImage();
+    	right = new ImageIcon("/Users/scat3402/Documents/Dev/Java/Pacman/images/right.gif").getImage();
+        ghost = new ImageIcon("/Users/scat3402/Documents/Dev/Java/Pacman/images/ghost.gif").getImage();
+        heart = new ImageIcon("/Users/scat3402/Documents/Dev/Java/Pacman/images/heart.png").getImage();
 
     }
        private void initVariables() {
